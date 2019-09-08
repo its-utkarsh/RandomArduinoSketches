@@ -1,4 +1,4 @@
 # RandomArduinoSketches
 Random Arduino Sketches, its in the title.
 
-Few sketches and accompanying library files.
+Few sketches and accompanying library files (see in project).
